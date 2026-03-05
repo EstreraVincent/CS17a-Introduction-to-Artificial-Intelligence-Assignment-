@@ -4,7 +4,7 @@ Apriori Algorithm - Example 1: Market Basket Analysis
 Discovers frequent itemsets and association rules
 from supermarket transaction data.
 
-Author: Binsoy
+Author: Vincent Patrick O. Estrera 
 Subject: Algorithm Design
 """
 
