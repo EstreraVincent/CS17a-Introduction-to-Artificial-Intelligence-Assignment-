@@ -4,7 +4,7 @@ A* Algorithm - Example 2: City Route Finder (Graph-based)
 Simulates GPS routing between cities using A*.
 Each city has (x, y) coordinates used for heuristic distance.
 
-Author: Binsoy
+Author: Vincent Patrick O. Estrera 
 Subject: Algorithm Design
 """
 
