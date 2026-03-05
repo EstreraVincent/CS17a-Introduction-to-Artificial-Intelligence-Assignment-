@@ -4,7 +4,7 @@
 **Course:** Algorithm Design & Analysis  
 **School:** University of Southern Mindanao (USM)  
 **Program:** BS Computer Science  
-**The code i send and add in here, on GitHub might not run successfully, as you can see there is an emoji with X and Check. But, i fixed and run them without debugging on the Visual Code Studio, as you can on each Output Screenshots. The 6 algorithms are running successfully.
+**The code i send and add in here, on GitHub might not run successfully, as you can see there is an emoji with X and Check. But, i fixed and run them without debugging on the Visual Code Studio, as you can see on each Output Screenshots. The 6 algorithms are running successfully.
 ---
 
 ## 📁 Project Structure
